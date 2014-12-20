@@ -1,0 +1,10 @@
+#Last build type
+#Fri, 19 Dec 2014 17:13:25 -0600
+
+build.last.target=debug
+
+build.last.is.instrumented=false
+
+build.last.is.packaging.debug=true
+
+build.last.is.signing.debug=true
