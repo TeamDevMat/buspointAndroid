@@ -1,4 +1,4 @@
-package com.example.buspoint;
+package com.project.buspoint.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
