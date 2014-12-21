@@ -12,6 +12,8 @@ import java.util.HashMap;
 import java.util.Collections;
 import java.util.Map;
 
+import com.project.buspoint.R;
+
 public class MainActivity extends ActionBarActivity {
 
 	private Spinner spinner1;
