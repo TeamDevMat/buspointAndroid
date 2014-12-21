@@ -4,6 +4,8 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+import com.project.buspoint.R;
+
 public class ObtenerRuta extends Activity {
 
 	
