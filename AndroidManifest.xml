@@ -34,7 +34,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="activities.ObtenerRuta"></activity>
+        <activity android:name=".activities.ObtenerRuta"></activity>
+	<activity android:name=".activities.BusMapActivity"></activity>
     
 	<meta-data
     	android:name="com.google.android.maps.v2.API_KEY"
