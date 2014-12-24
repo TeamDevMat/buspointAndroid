@@ -1,2 +1,2 @@
-/home/issac/workspace/libproject/google-play-services_lib/bin/AndroidManifest.xml : \
-/home/issac/workspace/libproject/google-play-services_lib/AndroidManifest.xml \
+/home/issac/workspace/Examples/BusPoint/google-play-services_lib/bin/AndroidManifest.xml : \
+/home/issac/workspace/Examples/BusPoint/google-play-services_lib/AndroidManifest.xml \
