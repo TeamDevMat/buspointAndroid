@@ -57,8 +57,7 @@
 /home/issac/workspace/Examples/BusPoint/bin/classes/com/google/android/gms/R$attr.class \
 /home/issac/workspace/Examples/BusPoint/bin/classes/com/google/android/gms/R$integer.class \
 /home/issac/workspace/Examples/BusPoint/bin/classes/com/google/android/gms/R$styleable.class \
-/home/issac/workspace/Examples/BusPoint/bin/dexedLibs/classes-ad9a673e438f33f105dcc55b7f1b13f9.jar \
 /home/issac/workspace/Examples/BusPoint/bin/dexedLibs/classes-b90ae4915de0b110ad0870496a2124c2.jar \
-/home/issac/workspace/Examples/BusPoint/bin/dexedLibs/android-support-v7-appcompat-5c6a7e3d01d1b87f05912a05882a2f60.jar \
+/home/issac/workspace/Examples/BusPoint/bin/dexedLibs/android-support-v7-appcompat-1d6721943d416d0cd81ea275d2315975.jar \
+/home/issac/workspace/Examples/BusPoint/bin/dexedLibs/android-support-v4-0fb7437fe13f5ad1d477ac3898f79721.jar \
 /home/issac/workspace/Examples/BusPoint/bin/dexedLibs/google-play-services-651ef155bc3b331aa9d67bd9cabc8529.jar \
-/home/issac/workspace/Examples/BusPoint/bin/dexedLibs/android-support-v4-09680a0b72eebac44a6daf4f840e96fd.jar \
