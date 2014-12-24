@@ -43,7 +43,7 @@ public class MainActivity extends ActionBarActivity {
 
         String select=spinner1.getSelectedItem().toString();
         	
-        Intent i = new Intent(this, ObtenerRuta.class);
+        Intent i = new Intent(this, BusMapActivity.class);
         startActivity(i);
     }
 
