@@ -11,6 +11,8 @@ import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListe
 import com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.location.LocationServices;
+import com.google.android.gms.location.LocationListener;
+import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -18,7 +20,11 @@ import com.google.android.gms.maps.model.LatLng;
 
 import  com.project.buspoint.R;
 
-public class BusMapActivity extends Activity implements ConnectionCallbacks, OnConnectionFailedListener{
+public class BusMapActivity extends Activity 
+implements 
+ConnectionCallbacks, 
+OnConnectionFailedListener, 
+LocationListener{
 
 
     public GoogleApiClient mGoogleClient;
@@ -64,7 +70,14 @@ public class BusMapActivity extends Activity implements ConnectionCallbacks, OnC
 	mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleClient);
 	Toast.makeText(this,"Lat:" + mLastLocation.getLatitude() + "Lng:" + mLastLocation.getLongitude(), Toast.LENGTH_LONG).show();
    	
-	//mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng( mLastLocation.getLatitude(), mLastLocation.getLongitude()),10));
+	mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng( mLastLocation.getLatitude(), mLastLocation.getLongitude()),10));
+	
+	LocationRequest request = new LocationRequest().create();
+	request.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
+	request.setInterval(5000);
+	request.setFastestInterval(1000);
+	
+	LocationServices.FusedLocationApi.requestLocationUpdates(mGoogleClient,request,this);
 
 	}
 
@@ -82,5 +95,11 @@ public class BusMapActivity extends Activity implements ConnectionCallbacks, OnC
    public void onConnectionFailed(ConnectionResult arg0){
 	
 	
+   }
+
+   @Override
+   public void onLocationChanged(Location location){
+	mLastLocation = location;
+	Toast.makeText(this,"Location Updated", Toast.LENGTH_SHORT).show();
    } 			
 }
