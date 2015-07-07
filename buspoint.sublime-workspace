@@ -1,0 +1,1132 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MAV_MODE_F",
+				"MAV_MODE_FLAG_AUTO_ENABLED"
+			],
+			[
+				"msg_",
+				"msg_set_mode"
+			],
+			[
+				"msg",
+				"msg_set_mode"
+			],
+			[
+				"SQ",
+				"SQLiteDatabase"
+			],
+			[
+				"sq",
+				"sqlite"
+			],
+			[
+				"hel",
+				"helper"
+			],
+			[
+				"create",
+				"createDatabase"
+			],
+			[
+				"my",
+				"myContext"
+			],
+			[
+				"C",
+				"Columna"
+			],
+			[
+				"sa",
+				"savedBundle"
+			],
+			[
+				"List",
+				"ListFragment"
+			],
+			[
+				"save",
+				"savedInstanceState"
+			],
+			[
+				"li",
+				"listView"
+			],
+			[
+				"lIS",
+				"listView"
+			],
+			[
+				"Ro",
+				"RowItem"
+			],
+			[
+				"S",
+				"Shakespeare"
+			],
+			[
+				"onA",
+				"onActivityCreated"
+			],
+			[
+				"DAT",
+				"DATABASE_VERSION"
+			],
+			[
+				"INT",
+				"INT_TYPE"
+			],
+			[
+				"rE",
+				"RevistaDemoTable"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"la",
+				"latlng"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"dron",
+				"droneMarker"
+			],
+			[
+				"btn",
+				"btnClear"
+			],
+			[
+				"fin",
+				"findView	findView"
+			],
+			[
+				"find",
+				"findView	findView"
+			],
+			[
+				"fi",
+				"findViewById"
+			],
+			[
+				"map",
+				"mapApi"
+			],
+			[
+				"La",
+				"LatLng"
+			],
+			[
+				"h",
+				"heartMsg"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ms",
+				"msg_mission_request"
+			],
+			[
+				"SY",
+				"SYSTEM"
+			],
+			[
+				"msg_miss",
+				"msg_mission_request_list"
+			],
+			[
+				"crea",
+				"crearMissionItem2"
+			],
+			[
+				"mission",
+				"mission2"
+			],
+			[
+				"SYS",
+				"system_status"
+			],
+			[
+				"heartM",
+				"heartMsg"
+			],
+			[
+				"he",
+				"heart"
+			],
+			[
+				"clear",
+				"clearAllDP"
+			],
+			[
+				"cl",
+				"clearAllMsg"
+			],
+			[
+				"miss",
+				"mission1Mavpacket"
+			],
+			[
+				"cle",
+				"clearAllMavpacket"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"para",
+				"param1"
+			],
+			[
+				"mav_cmd",
+				"MAV_CMD_NAV_TAKEOFF"
+			],
+			[
+				"MAV",
+				"MAV_CMD"
+			],
+			[
+				"crear",
+				"crearMissionItem"
+			],
+			[
+				"mg",
+				"msg_command_long"
+			],
+			[
+				"coun",
+				"count"
+			],
+			[
+				"msg_mission",
+				"msg_mission_count"
+			],
+			[
+				"her",
+				"heart"
+			],
+			[
+				"MAV_C",
+				"MAV_COMPONENT"
+			],
+			[
+				"cou",
+				"countMsg"
+			],
+			[
+				"sys",
+				"SYSTEM"
+			],
+			[
+				"co",
+				"countMsg"
+			],
+			[
+				"targe",
+				"target_component"
+			],
+			[
+				"count",
+				"countMsg"
+			],
+			[
+				"msg_mi",
+				"msg_mission_count"
+			],
+			[
+				"msg_m",
+				"msg_mission_count"
+			],
+			[
+				"buffer",
+				"buffer"
+			],
+			[
+				"rece",
+				"receiverThread"
+			],
+			[
+				"D",
+				"DatagramPacket"
+			],
+			[
+				"Rece",
+				"ReceiverUDPMessage"
+			],
+			[
+				"P",
+				"PolylineOptions"
+			],
+			[
+				"selec",
+				"selectedRuta"
+			],
+			[
+				"rut",
+				"ruta_id"
+			],
+			[
+				"item",
+				"ITEMS"
+			],
+			[
+				"RUTA",
+				"RUTA_ID"
+			],
+			[
+				"cu",
+				"CULTURAS"
+			],
+			[
+				"point",
+				"point2"
+			],
+			[
+				"VIdeo",
+				"VideoStageView"
+			],
+			[
+				"folder",
+				"folder_exclude_patterns"
+			],
+			[
+				"A",
+				"ARDrone_SDK_2_0_1"
+			],
+			[
+				"fr",
+				"fragmaps	fragment-maps"
+			],
+			[
+				"get",
+				"getFragmentManager"
+			],
+			[
+				"for",
+				"fore	for (each)"
+			],
+			[
+				"im",
+				"imt	import junit.framework.TestCase;"
+			],
+			[
+				"and",
+				"android"
+			],
+			[
+				"trigger",
+				"triggerTakeOff"
+			],
+			[
+				"DRONE",
+				"droneVersion"
+			],
+			[
+				"private",
+				"private"
+			],
+			[
+				"usuario",
+				"usuarioSQL"
+			],
+			[
+				"com",
+				"comentario"
+			],
+			[
+				"u",
+				"UnknownHostException"
+			],
+			[
+				"add",
+				"addressExist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/AndroidManifest.xml",
+			"settings":
+			{
+				"buffer_size": 1702,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/com/project/buspoint/activities/BusPointActivity.java",
+			"settings":
+			{
+				"buffer_size": 2498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/com/project/buspoint/activities/BusMapActivity.java",
+			"settings":
+			{
+				"buffer_size": 1524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/com/project/buspoint/location/DirtyLocationListener.java",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/com/project/buspoint/location/LocationApi.java",
+			"settings":
+			{
+				"buffer_size": 3564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/com/project/buspoint/maps/MapApi.java",
+			"settings":
+			{
+				"buffer_size": 3713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/com/project/buspoint/maps/MapClickManager.java",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"ADB: Clear View"
+			],
+			[
+				"ex",
+				"HTML Export: Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: c",
+				"Set Syntax: C"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"MA",
+				"Set Syntax: Makefile"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sy pro",
+				"Set Syntax: SWI-Prolog"
+			],
+			[
+				"a",
+				"Import Android Classes"
+			],
+			[
+				"AN",
+				"Import Android Classes"
+			],
+			[
+				"an",
+				"Import Android Classes"
+			],
+			[
+				"AND",
+				"Import Android Classes"
+			],
+			[
+				"An",
+				"Import Android Classes"
+			],
+			[
+				"Snippet: ",
+				"Snippet: permisos-maps"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"scri",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syj",
+				"Set Syntax: Java"
+			],
+			[
+				"velo",
+				"Set Syntax: Velocity"
+			],
+			[
+				"android",
+				"Import Android Classes"
+			],
+			[
+				"impo",
+				"Import Android Classes"
+			],
+			[
+				"im",
+				"Import Android Classes"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:j",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/issac/workspace/Examples/BusPoint/src/main/java/com/project/buspoint/maps/MapControl.java",
+		"/home/issac/workspace/Somos/Examples/SomosAndroidDB/src/main/java/com/sm/app/ui/adapter/CustomListViewAdapter.java",
+		"/home/issac/workspace/Somos/Examples/SomosAndroidDB/src/main/java/com/sm/app/ui/adapter/RowItem.java",
+		"/home/issac/workspace/Somos/Examples/SomosAndroidDB/src/main/res/layout/list_item.xml",
+		"/home/issac/workspace/Somos/Examples/SomosAndroidDB/src/main/res/layout/fragment_layout.xml",
+		"/home/issac/workspace/Somos/Examples/SomosAndroidDB/src/main/res/layout/fragment.xml",
+		"/home/issac/src/java/buspoint_coords/juarez.txt",
+		"/home/issac/src/java/buspoint_coords/ILector.java",
+		"/home/issac/src/java/buspoint_coords/LectorCoordenadaArchivo.java",
+		"/home/issac/src/java/buspoint_coords/Lector.java",
+		"/home/issac/src/java/buspoint_coords/Coord.java",
+		"/home/issac/src/java/buspoint_coords/Client.java",
+		"/home/issac/workspace/Examples/AndroidNavigationDrawer/libs/android-support-v4.jar",
+		"/home/issac/workspace/Examples/AndroidNavigationDrawer/src/com/javatechig/drawer/MainActivity.java",
+		"/home/issac/workspace/Examples/AndroidNavigationDrawer/res/menu/main.xml",
+		"/home/issac/workspace/Examples/AndroidNavigationDrawer/res/drawable-hdpi/ic_drawer.png",
+		"/home/issac/workspace/RutaDrone/src/main/res/values/strings.xml",
+		"/home/issac/workspace/RutaDrone/src/main/java/com/ubicom/drone/ui/fragments/BarFragment.java",
+		"/home/issac/workspace/RutaDrone/src/main/res/layout/fragment_bar.xml",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/MissionRequestPartialList",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_heartbeat.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_request_data_stream.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_mission_request_list.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_mission_item.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_mission_clear_all.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_mission_count.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/Messages/MAVLinkMessage.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_command_long.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/enums/MAV_MODE_FLAG.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_set_mode.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/enums/MAV_MODE.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/MAVLinkPacket.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/common/msg_mission_write_partial_list.java",
+		"/home/issac/src/java/mavlink/src/com/MAVLink/enums/MAV_DATA_STREAM.java",
+		"/home/issac/workspace/RutaDrone/src/main/java/com/ubicom/drone/mavs/MavInfo.java",
+		"/home/issac/workspace/Examples/BusPoint/src/main/java/com/project/buspoint/plano/Coord.java",
+		"/media/KINGSTON/juegode2 .CLP",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/AndroidManifest.xml",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/res/layout/hud_screen.xml",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Linux/video_demo/Sources/Video/pre_stage.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Linux/video_demo/Sources/Video/post_stage.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Linux/video_demo/Sources/Video/display_stage.h",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Linux/video_demo/Sources/ardrone_testing_tool.c",
+		"/home/issac/workspace/MainActivity/src/com/example/android/effectivenavigation/MainActivity.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/res/anim/slide_up_in.xml",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/app.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/video_stage_io_file.h",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/hardware_capabilites.h",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/Plf/plf.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/NavData/nav_data.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/Controller/ardrone_controller.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/FreeFlightApplication.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/ardrone_version.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Build/custom.makefile~",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/Com/config_wifi.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/build.sh",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/build_ci.sh",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/environment.properties",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/check_dependencies.sh",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/DroneControlService.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/activities/DashboardActivity.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/commands/DroneServiceCommand.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/drone/DroneProxy.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/VP_SDK/VP_Com/elinux/vp_com.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/Com/config_wifi.h",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/VP_SDK/VP_Com/linux/vp_com.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Build/custom.makefile",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/Android.mk",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/Android.mk",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/Application.mk",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/states/PausedServiceState.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/Callbacks/drone_proxy_callbacks.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/states/DisconnectedServiceState.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/intents/DroneStateManager.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/ControlData.h",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/ControlData.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/common.h",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/commands/ConnectCommand.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/ServiceStateBase.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/activities/SplashActivity.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/states/ConnectedServiceState.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/service/commands/ResumeCommand.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ardrone.sublime-project",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/ardrone_tool.h",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/ardrone_tool.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/src/com/parrot/freeflight/video/VideoStageRenderer.java",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/libs/armeabi/gdbserver",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/project.properties",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/app.map",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/ant.properties",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/build.xml",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Linux/Custom/Makefile",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Build/config.makefile",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/Navdata/ardrone_academy_navdata.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/Academy/academy.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/Stubs/drone_stub.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/Video/video_stage.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Sources/ardrone_testing_tool.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/Examples/Linux/prueba_api/Sources/ardrone_testing_tool.c",
+		"/home/issac/Downloads/AARDrone_SDK_2_0_1/ARDroneLib/VP_SDK/VP_Com/vp_com.h",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/Android.mk",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/Custom/log",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Sources/ardrone_testing_tool.c",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/Custom/ardrone_testing_tool.c",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/Custom/Makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/prueba_api/Build/Makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/video_demo/Build/Makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Build/Makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/VP_SDK/Build/Makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Android/trunk/FreeFlight2/jni/API/app.c",
+		"/home/issac/src/prolog/practica1.pl",
+		"/home/issac/src/prolog/arbol_gene.pl",
+		"/home/issac/src/prolog/practica4.pl",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Sources/common/main_raw_capture.c",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Sources/UI/ardrone_ini.c",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/video_demo/Sources/ardrone_testing_tool.c",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/VP_SDK/VP_Com/vp_com_wifi.h",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/ardrone_tool_configuration.c",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/ardrone_tool_configuration.h",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Build/Debug/linux_custom_demo",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/VP_SDK/Build/generic.makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/Soft/Build/config.makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/Soft/Build/check_dependencies.sh",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Build/log",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/Linux/Makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/Soft/Build/Makefile",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/Examples/DroneDemo1/ant.properties",
+		"/home/issac/Downloads/ARDrone_SDK_2_0_1/ARDroneLib/ARDroneLib.xcodeproj/project.pbxproj"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MAV_sTA",
+			"openDatabase",
+			"onDET",
+			"CustomL",
+			"smma",
+			"actionbar",
+			"hide",
+			"getUrl",
+			"fragment_",
+			"WEBvIEW",
+			"drawable",
+			"launcher",
+			"NavigationDrawer",
+			"Drawer",
+			";\n",
+			"100",
+			"(LHOST",
+			"(HOST",
+			",PORT_MAVLINK",
+			"PORT_MAVLINK",
+			"crearmiss",
+			"System.out",
+			"system",
+			"coord",
+			"pintarRuta",
+			"printarRuta",
+			"pinta",
+			"pintarR",
+			"gp",
+			"requ",
+			"resum",
+			"resu",
+			"start",
+			"run(",
+			"run",
+			"is",
+			"isdroneconn",
+			"isdrone",
+			"isdron",
+			"currstate",
+			"onc",
+			"onconn",
+			"currState",
+			"navdataUpdateThread",
+			"requestUpdateButtonsState()",
+			"void requestUpdateButtonsState()",
+			"private void requestUpdateButtonsState()",
+			"requestUpdateButtonsState()",
+			"mService",
+			"requestS",
+			"requestDroneStatus",
+			"onDroneReady",
+			"run",
+			"workert",
+			"setsta",
+			"mservice",
+			"droneControlService",
+			"service",
+			"mservice",
+			"mservice.",
+			"mservice",
+			"service",
+			"connected",
+			"public void ondr",
+			"public void on",
+			"drone_connection_changed_action",
+			"intentca",
+			"initCa",
+			"initCha",
+			"action_drone",
+			"action_dr",
+			"send",
+			"onDroneAvailabilityChanged",
+			"checkDroneConnectivit",
+			"onDroneAvai",
+			"droneStateReceiver",
+			"showErrorMessageForTime",
+			"onStartFreeflight",
+			"ondroneava",
+			"checkDronec",
+			"onNETWORKC",
+			"onNETWORK",
+			"CHECKdRONEcONNECTIVITY",
+			"check",
+			"task",
+			"onDroneConnec",
+			"service",
+			"mService.",
+			"DroneAvailabilitydelegate",
+			"delegate",
+			"ondroneava",
+			"ondrone",
+			"availa",
+			"sendBr",
+			"currstate",
+			"request",
+			"APPLYS",
+			"APPLYSE",
+			"screenR",
+			"droneCamerare",
+			"localbro",
+			"droneCamera",
+			"soundP",
+			"stopE",
+			"ONdEVICEoRIENTATION",
+			"ISLOWON",
+			"INITlI",
+			"applyH",
+			"onRec",
+			"onrecord",
+			"screenRotat",
+			"dronerec",
+			"droneFl",
+			"droneF",
+			"droneBa",
+			"       droneba\n",
+			"       \n",
+			"dronebattery",
+			"droneEmergencyReceiver",
+			"VideoRecordingStateReceiver",
+			"videoRecordingStateReceiver",
+			"wifisignalre",
+			"wifisignal",
+			"deviceor",
+			"device",
+			"joystick",
+			"rece",
+			"localbr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(HOST",
+			"(LHOST",
+			",PORT_QGROUNDCONTROL",
+			"PORT_QGROUNDCONTROL",
+			"//System.out",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/AndroidManifest.xml",
+					"settings":
+					{
+						"buffer_size": 1702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/java/com/project/buspoint/activities/BusPointActivity.java",
+					"settings":
+					{
+						"buffer_size": 2498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2497,
+								2497
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main/java/com/project/buspoint/activities/BusMapActivity.java",
+					"settings":
+					{
+						"buffer_size": 1524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/main/java/com/project/buspoint/location/DirtyLocationListener.java",
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/main/java/com/project/buspoint/location/LocationApi.java",
+					"settings":
+					{
+						"buffer_size": 3564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 668.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/main/java/com/project/buspoint/maps/MapApi.java",
+					"settings":
+					{
+						"buffer_size": 3713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 382.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/main/java/com/project/buspoint/maps/MapClickManager.java",
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 164.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"FreeFlight2/src/com/parrot/freeflight/service/DroneControlService.java"
+			],
+			[
+				"linux_c",
+				"Examples/Build/Debug/linux_custom_demo"
+			],
+			[
+				"custom",
+				"Examples/Build/Debug/linux_custom_demo"
+			],
+			[
+				"chec",
+				"ARDroneLib/Soft/Build/check_dependencies.sh"
+			],
+			[
+				"all",
+				"ARDroneLib/FFMPEG/ffmpeg/libavcodec/allcodecs.c"
+			],
+			[
+				"linux_sdk_demo",
+				"Examples/Linux/Build/Release/linux_sdk_demo"
+			],
+			[
+				"install",
+				"freeflight/updater/commands/UpdaterInstallCommand.java"
+			],
+			[
+				"im",
+				"freeflight/service/intents/DroneStateManager.java"
+			],
+			[
+				"service",
+				"freeflight/service/DroneControlService.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/issac/workspace/Examples/AndroidNavigationDrawer/android navigation drawer.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}

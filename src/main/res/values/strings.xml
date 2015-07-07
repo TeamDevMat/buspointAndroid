@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BusPoint</string>
+    <string name="app_label">BusPoint</string>
+    <string name="search_hint">All</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="mapsview_entries" >
+    	<item>Normal </item>
+    	<item>Hibrido </item>
+    	<item>Satelite </item>
+    </string-array>
+    <!-- Segun las constantes de googlemap -->
+	<string-array name="mapsview_values" >
+    	<item>1</item>
+    	<item>4</item>
+    	<item>2</item>
+    </string-array>
+
+	<string name="mapsview_defaultvalue">1</string> 
+</resources>

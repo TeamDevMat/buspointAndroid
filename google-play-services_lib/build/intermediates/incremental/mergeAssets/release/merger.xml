@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/issac/workspace/Examples/BusPoint/google-play-services_lib/src/main/assets"/></dataSet><dataSet config="release"><source path="/home/issac/workspace/Examples/BusPoint/google-play-services_lib/src/release/assets"/></dataSet></merger>

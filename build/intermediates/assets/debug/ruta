@@ -1,0 +1,7 @@
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE TABLE ruta (
+    "_id" INTEGER NOT NULL,
+    "nombre" TEXT NOT NULL,
+    "numero" INTEGER NOT NULL,
+    "color" TEXT DEFAULT ('blanco')
+);

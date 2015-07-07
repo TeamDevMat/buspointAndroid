@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+ <!-- un list view -->
+
+<ListView 
+    android:id="@+id/list" 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" />
+
+</LinearLayout>
+
+<!-- From: file:/home/issac/workspace/Examples/BusPoint/src/main/res/layout/obtenerruta.xml -->

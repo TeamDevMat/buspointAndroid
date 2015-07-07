@@ -1,0 +1,26 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory 
+        android:title="Tipo de Vista del Mapa"
+        android:key="pref_key_vista">
+
+        <ListPreference 
+        	android:key="pref_key_mapview"
+        	android:title="Vista del Mapa"
+        	android:dialogTitle="Seleciona la Vista"
+        	android:entries="@array/mapsview_entries"
+        	android:entryValues="@array/mapsview_values"
+        	android:defaultValue="@string/mapsview_defaultvalue"
+        />
+
+        <Preference 
+            android:key="pref_key_sms_delete_limit"
+          android:summary="Summary"
+            android:title="Preference 1" />
+        <Preference 
+            android:key="pref_key_mms_delete_limit"
+          
+            android:summary="Summary"
+            android:title="Preference 2"  />
+    </PreferenceCategory>
+    
+</PreferenceScreen><!-- From: file:/home/issac/workspace/Examples/BusPoint/src/main/res/layout/preferences.xml -->

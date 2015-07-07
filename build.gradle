@@ -1,0 +1,50 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.0.0'
+    }
+}
+/*If you want to use CardView or RecyclerView 
+I think that you need something like this in your build.gradle file:*/
+apply plugin: 'com.android.application'
+
+repositories {
+        mavenCentral()
+    }
+dependencies {
+	
+	compile fileTree(dir: 'libs', include: '*.jar')
+	//root is in settings.gradle
+	compile project(':google-play-services_lib')
+    compile 'com.android.support:appcompat-v7:20.0.0'
+    
+}
+android {
+    compileSdkVersion 'android-17'
+    buildToolsVersion '21.1.2'
+	
+	defaultConfig{
+		applicationId "com.project.buspoint"
+    		minSdkVersion 14
+    		targetSdkVersion 17
+    		versionCode 1
+    		versionName "1.0"	
+	}	
+	
+    buildTypes {
+        release {
+            //runProguard false
+		  minifyEnabled false
+          proguardFile getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+}
+
+
+
+
+
+
+

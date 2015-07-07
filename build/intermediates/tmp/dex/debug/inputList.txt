@@ -1,0 +1,7 @@
+/home/issac/workspace/Examples/BusPoint/build/intermediates/classes/debug
+/home/issac/workspace/Examples/BusPoint/build/intermediates/pre-dexed/debug/classes-232d4b97d9a25d9629517c07a044366e12fdbc42.jar
+/home/issac/workspace/Examples/BusPoint/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-3a4006c857a2fdf1f768fe865f65f52b4a6c3d30.jar
+/home/issac/workspace/Examples/BusPoint/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-9000865354e55e1b84487fbc7d8ae40bfecf5e33.jar
+/home/issac/workspace/Examples/BusPoint/build/intermediates/pre-dexed/debug/classes-e2baf862c23e8aa57f4191c62c6991968fa83b78.jar
+/home/issac/workspace/Examples/BusPoint/build/intermediates/pre-dexed/debug/classes-fd85302a659fc1efe748626a00c15c62b8216650.jar
+/home/issac/workspace/Examples/BusPoint/build/intermediates/pre-dexed/debug/google-play-services-4fccfccdbeb0dd68781635438055a74649fbc645.jar

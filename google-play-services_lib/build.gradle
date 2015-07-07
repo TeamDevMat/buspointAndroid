@@ -1,0 +1,32 @@
+buildscript {
+     repositories {
+          mavenCentral()
+     }
+     dependencies {
+          classpath 'com.android.tools.build:gradle:1.0.0'
+     }
+}
+apply plugin: 'android-library'
+
+dependencies {
+     //compile files('libs/google-play-services.jar')
+     compile fileTree(dir: 'libs', include: '*.jar')
+}
+
+android {
+    // compileSdkVersion 'android-17'
+    // buildToolsVersion '19.1.0'
+      compileSdkVersion 21
+    buildToolsVersion '21.1.2'
+	defaultConfig{
+        minSdkVersion 14
+        targetSdkVersion 17
+
+    }	
+	sourceSets {
+          main {
+                manifest.srcFile 'AndroidManifest.xml'
+                res.srcDirs = ['res']
+          }
+     }
+}
